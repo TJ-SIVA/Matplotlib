@@ -1,0 +1,67 @@
+Fide_id,Name,Gender,Year_of_birth,Federation,State,Year_of_becoming_GM,Classical_Rating,Rapid_rating,Blitz_rating
+5000017,"Anand, Viswanathan",M,1969,IND,Tamil Nadu,1987,2753,2751,2785
+5000025,"Barua, Dibyendu",M,1966,IND,West Bengal,1991,2393,2404,0
+5000033,"Thipsay, Praveen M",M,1959,IND,Maharashtra,1997,2376,2288,2200
+5002265,"Kunte, Abhijit",M,1977,IND,Maharashtra,2000,2458,2427,2420
+5004985,"Sasikiran, Krishnan",M,1981,IND,Tamil Nadu,2000,2647,2577,2552
+5007003,"Harikrishna, Pentala",M,1986,IND,Andhra Pradesh,2001,2719,2690,2663
+5008123,"Koneru, Humpy",F,1987,IND,Andhra Pradesh,2002,2586,2483,2483
+5002150,"Ganguly, Surya Shekhar",M,1983,IND,West Bengal,2003,2635,2646,2563
+5004225,"Chanda, Sandipan",M,1983,IND,West Bengal,2003,2543,2602,2490
+5002109,Ramesh R B,M,1976,IND,Tamil Nadu,2004,2472,0,2302
+5004195,"Bakre, Tejas",M,1981,IND,Gujarat,2004,2413,2385,2366
+5007429,"Panchanathan, Magesh Chandran",M,1983,IND,Tamil Nadu,2006,2508,0,2494
+5011132,Deepan Chakkravarthy J.,M,1987,IND,Tamil Nadu,2006,2535,2475,2490
+5003512,"Neelotpal, Das",M,1982,IND,West Bengal,2006,2425,2338,2427
+5016690,"Negi, Parimarjan",M,1993,IND,Delhi,2006,2639,2613,2613
+5015693,Gopal G.N.,M,1989,IND,Kerala,2007,2593,2523,2559
+5010608,"Gupta, Abhijeet",M,1989,IND,Rajasthan,2008,2612,2551,2549
+5011167,"Arun Prasad, S.",M,1988,IND,Tamil Nadu,2008,2507,2486,2514
+5005370,"Sundararajan, Kidambi",M,1982,IND,Tamil Nadu,2009,2389,2398,2409
+5005361,"Laxman, R.R.",M,1983,IND,Tamil Nadu,2009,2411,2363,2476
+5001668,"Sriram, Jha",M,1976,IND,Delhi,2010,2379,2389,2253
+5008352,"Sengupta, Deep",M,1988,IND,West Bengal,2010,2527,2438,2347
+5018471,"Adhiban, B.",M,1992,IND,Tamil Nadu,2010,2659,2624,2633
+5021596,"Sethuraman, S.P.",M,1993,IND,Tamil Nadu,2011,2644,2588,2477
+5015197,"Harika, Dronavalli",F,1991,IND,Andhra Pradesh,2011,2515,2450,2422
+5024595,Lalith Babu M R,M,1993,IND,Andhra Pradesh,2012,2553,2557,2557
+5045185,"Vaibhav, Suri",M,1997,IND,Delhi,2012,2600,2543,2381
+5005779,"Venkatesh, M.R.",M,1985,IND,Tamil Nadu,2012,2493,2414,2450
+5021103,"Grover, Sahaj",M,1995,IND,Delhi,2012,2504,2492,2525
+5029465,"Vidit, Santosh Gujrathi",M,1994,IND,Maharashtra,2013,2726,2636,2735
+5019141,"Shyam, Sundar M.",M,1992,IND,Tamil Nadu,2013,2518,2464,2489
+5012414,"Akshayraj, Kore",M,1988,IND,Maharashtra,2013,2482,2484,2399
+5030692,Vishnu Prasanna. V,M,1989,IND,Tamil Nadu,2013,2476,2558,2510
+5024854,"Debashis, Das",M,1993,IND,Odisha,2013,2501,2565,2470
+5002974,"Roy Chowdhury, Saptarshi",M,1982,IND,West Bengal,2013,2287,2425,2331
+5023335,"Ankit, R. Rajpara",M,1994,IND,Gujarat,2014,2452,0,2447
+5072786,"Aravindh, Chithambaram VR.",M,1999,IND,Tamil Nadu,2015,2641,2586,2600
+5074452,"Karthikeyan, Murali",M,1999,IND,Tamil Nadu,2015,2606,2388,2564
+5018137,"Ashwin, Jayaram",M,1990,IND,Tamil Nadu,2015,2480,2513,2461
+5019184,"Swapnil, S. Dhopade",M,1990,IND,Maharashtra,2015,2495,2470,2402
+5058422,Narayanan.S.L,M,1998,IND,Kerala,2015,2618,2436,2617
+5037883,"Gagare, Shardul",M,1997,IND,Maharashtra,2016,2514,2449,2488
+5045207,"Ghosh, Diptayan",M,1998,IND,West Bengal,2016,2541,2473,2534
+5018293,Kannappan Priyadharshan,M,1993,IND,Tamil Nadu,2016,2553,2478,2464
+5084423,Aryan Chopra,M,2001,IND,Delhi,2017,2585,0,0
+5018420,"Narayanan, Srinath",M,1994,IND,Tamil Nadu,2017,2540,2518,2472
+5007836,"Himanshu, Sharma",M,1983,IND,Haryana,2017,2394,2352,2307
+5024366,"Anurag, Mhamal",M,1995,IND,Goa,2017,2499,2382,2317
+5061245,"Puranik, Abhimanyu",M,2000,IND,Maharashtra,2017,2584,2440,2460
+5009154,"Thejkumar, M. S.",M,1981,IND,Karnataka,2017,2433,2433,2312
+5008980,"Saptarshi, Roy",M,1986,IND,West Bengal,2018,2411,2372,2368
+25059530,Praggnanandhaa R,M,2005,IND,Tamil Nadu,2018,2608,1781,2555
+25092340,Nihal Sarin,M,2004,IND,Kerala,2018,2620,2418,2658
+35009192,Erigaisi Arjun,M,2003,IND,Telangana,2018,2559,2254,2609
+25006479,Karthik Venkataraman,M,1999,IND,Telangana,2018,2483,2192,2362
+5078776,Harsha Bharathakoti,M,2000,IND,Telangana,2018,2509,2488,2576
+5018226,"Karthikeyan, P.",M,1990,IND,Tamil Nadu,2018,2404,2351,2366
+5029104,"Stany, G.A.",M,1993,IND,Karnataka,2018,2522,2354,2502
+25012223,Visakh N R,M,1999,IND,Tamil Nadu,2019,2516,2371,2428
+46616543,Gukesh D,M,2006,IND,Tamil Nadu,2019,2563,1927,2376
+25002767,"Iniyan, P",M,2002,IND,Tamil Nadu,2019,2506,2295,2400
+5028183,"Swayams, Mishra",M,1992,IND,Odisha,2019,2489,2461,2419
+5038448,"Girish, A. Koushik",M,1997,IND,Karnataka,2019,2498,2410,2387
+46618546,Prithu Gupta,M,2004,IND,Delhi,2019,2472,0,1775
+35093487,"Sadhwani, Raunak",M,2005,IND,Maharashtra,2019,2545,2454,2514
+5040299,Akash G,M,1996,IND,Tamil Nadu,2020,2495,2393,2359
